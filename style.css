@@ -1,0 +1,152 @@
+body {
+    font-family: Poppins, sans-serif;
+    margin: 0px;
+}
+
+.header-section {
+    margin-top: 100px;
+}
+
+.container {
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+
+.diet {
+    padding-top: 50px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 60px;
+    margin: 0px;
+    font-weight: bold;
+}
+
+span {
+    color: rgb(251, 146, 74);
+}
+
+p {
+    color: rgb(130, 131, 131);
+    margin-bottom: 60px;
+    text-align: justify;
+}
+
+a {
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 900;
+    box-shadow: 1px 0px 0px 6px #FDDBC1;
+}
+
+.about-section {
+    background-image: url(images/shapes/Frame.jpg);
+    background-repeat: no-repeat;
+}
+
+.about-section img {
+    width: 60%;
+    padding-top: 70px;
+}
+
+.about-container {
+    width: 80%;
+    display: flex;
+
+    margin: auto;
+}
+
+.about-me {}
+
+.paragraph {}
+
+.about {
+    font-size: 35px;
+    padding-top: 100px;
+    color: #6F706F;
+}
+
+.recip {}
+
+.recip-title {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    text-t;
+}
+
+.food {}
+
+h3 {
+    font-weight: 900;
+    font-size: 25px;
+}
+
+
+.photo {}
+
+.foods {
+    width: 80%;
+    margin: auto;
+    box-shadow: 10px 10px 20px #888888;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.third-width {
+    width: 25%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.follower {
+    box-shadow: 10px 10px 20px #888888;
+    border-radius: 10px;
+    width: 80%;
+    margin: 80px auto;
+
+}
+
+.follower h1 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.follower p {
+    color: black;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    background-color: black;
+
+}
+
+footer h2 {
+    color: #47494A;
+    margin: 0;
+    margin-bottom: 20px;
+    padding-top: 35px;
+}
+
+footer h5 {
+    padding-bottom: 60px;
+    color: white;
+    margin: 0;
+}
